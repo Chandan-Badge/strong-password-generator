@@ -1,0 +1,9 @@
+.show {
+    display: flex;
+    visibility: visible;
+}
+
+.not-show {
+    display: hidden;
+    visibility: hidden;
+}

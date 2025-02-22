@@ -4,7 +4,7 @@ function PasswordGenerator() {
 
     let [length, setLength] = useState(4);
     let [numberAllowed, setNumberAllowed] = useState(true);
-    let [smallLetterAllowed, setSmallLetterAllowed] = useState(false);
+    let [smallLetterAllowed, setSmallLetterAllowed] = useState(true);
     let [capitalLetterAllowed, setCapitalLetterAllowed] = useState(false);
     let [charAllowed, setCharAllowed] = useState(false);
 

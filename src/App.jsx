@@ -4,6 +4,7 @@ import DarkLightMode from './components/DarkLightMode';
 import { useState } from 'react';
 import logo from "./components/C2-Logo-White.png";
 import About from './components/About';
+import Footer from './components/footer';
 
 function App() {
 
@@ -48,6 +49,7 @@ function App() {
 
 
           <About />
+          <Footer />
         </section>
     </main>
 

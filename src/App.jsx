@@ -28,7 +28,7 @@ function App() {
     let modeChange = darkMode ? "dark" : "";
 
   return (
-    <main className={`${modeChange} h-screen w-full`}>
+    <main className={`${modeChange} h-max w-full`}>
 
         <section className="h-max w-full flex items-center justify-center flex-col gap-12 text-black dark:text-white bg-gradient-to-l bg-[#02aab0] from-[#00cdac] to-[#02aab0] dark:bg-gradient-to-l dark:bg-[#040917] dark:from-[#152737] dark:to-[#040917]">
 

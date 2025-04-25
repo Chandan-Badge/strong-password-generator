@@ -6,7 +6,7 @@ function Footer() {
 
             <div class="w-full max-w-screen-xl mx-auto">
                 <div class="sm:flex sm:items-center sm:justify-between">
-                    <a href="#" class="flex items-center my-1">
+                    <a href="https://chandanchaudhary-portfolio.netlify.app/" class="flex items-center my-1">
                         <img src={logo} class="h-20" alt="Logo" />
                     </a>
                     <ul class="flex flex-wrap items-center text-sm font-medium text-gray-100 dark:text-gray-400 py-3">
@@ -25,7 +25,7 @@ function Footer() {
                     </ul>
                 </div>
                 <hr class="border-gray-100 dark:border-gray-700" />
-                <span class="block my-2 text-sm text-gray-200 sm:text-center dark:text-gray-400">© 2025 <a href="#" class="hover:underline">Chandan Chaudhary</a>. All Rights Reserved.</span>
+                <span class="block my-2 text-sm text-gray-200 sm:text-center dark:text-gray-400">© 2025 <a href="https://chandanchaudhary-portfolio.netlify.app/" class="hover:underline">Chandan Chaudhary</a>. All Rights Reserved.</span>
             </div>
 
         </footer>

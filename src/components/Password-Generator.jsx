@@ -69,7 +69,7 @@ function PasswordGenerator() {
                 {/* Inp area */}
                 <div className="">
                     <input type="text" value={password} placeholder="password" readOnly ref={passwardRef}
-                    className="w-[200px] sm:w-[250px] md:w-[350px] text-black bg-white py-[6px] sm:py-2 px-3 my-4 rounded-s-md border-y-[1.5px] border-s-[1.5px] border-black shadow-lg text-center outline-none" />
+                    className="font-[Rockwell] w-[200px] sm:w-[250px] md:w-[350px] text-black bg-white py-[6px] sm:py-2 px-3 my-4 rounded-s-md border-y-[1.5px] border-s-[1.5px] border-black shadow-lg text-center outline-none" />
 
                     <button onClick={copyPassword}
                     className="bg-[#1848a1] hover:bg-[#182fa1] transition-all duration-150 ease-in-out text-[#fff] py-[6px] sm:py-2 px-4 my-4 rounded-e-md border-y-[1.5px] border-e-[1.5px] border-black shadow-lg">Copy</button>

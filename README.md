@@ -6,7 +6,7 @@ creating strong, unique passwords instantly. With
 customizable options and a privacy-focused design, it helps 
 enhance online security effortlessly.
 
-SecurePass - Strong Password Generator is your go-to tool for generating strong, secure, and completely Strong passwords in seconds. Designed for both casual users and cybersecurity professionals, SecurePass helps protect your online accounts by creating complex passwords that are nearly impossible to crack. Customize password length, character types (letters, numbers, symbols), and copy instantly to clipboard—all in a clean, responsive interface.
+<!-- SecurePass - Strong Password Generator is your go-to tool for generating strong, secure, and completely Strong passwords in seconds. Designed for both casual users and cybersecurity professionals, SecurePass helps protect your online accounts by creating complex passwords that are nearly impossible to crack. Customize password length, character types (letters, numbers, symbols), and copy instantly to clipboard—all in a clean, responsive interface. -->
 
 ### 🧑‍💻 Tech Stacks
 - react.js

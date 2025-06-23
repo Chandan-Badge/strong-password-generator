@@ -67,7 +67,7 @@ function PasswordGenerator() {
                 <p className="my-4 text-sm md:text-base flex-wrap text-center">Create strong and secure passwords to become a safe user online or offline.</p>
 
                 {/* Inp area */}
-                <div className="">
+                <div className="flex justify-center items-center">
                     <input type="text" value={password} placeholder="password" readOnly ref={passwardRef}
                     className="font-[Rockwell] w-[200px] sm:w-[250px] md:w-[350px] text-black bg-white py-[6px] sm:py-2 px-3 my-4 rounded-s-md border-y-[1.5px] border-s-[1.5px] border-black shadow-lg text-center outline-none" />
 

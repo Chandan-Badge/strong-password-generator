@@ -36,4 +36,4 @@ In today’s digital age, security begins with a strong password. SecurePass is 
 
 - "Your password guardian, in your pocket."
 
-© 2025 [Chandan Chaudhary](https://chandanchaudhary-portfolio.netlify.app/). All Rights Reserved.
+© 2025 [Chandan Chaudhary](https://www.chandanchaudhary.in). All Rights Reserved.

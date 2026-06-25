@@ -6,7 +6,7 @@ import About from './components/About';
 import Footer from './components/footer';
 // import Animation from './animation/animation';
 
-import logo from "./assets/C2-Logo-White.png";
+import logo from "./assets/c2codebase.png";
 // import logo2 from "../src/assets/Chandan-Logo-White.png";
 
 function App() {
@@ -34,7 +34,7 @@ function App() {
 
           {/* <Animation /> */}
 
-            <div className="absolute max-w-24 top-4 left-6">
+            <div className="absolute max-w-20 top-4 left-8">
                 <img src={logo} alt="" />
             </div>
 
